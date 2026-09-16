@@ -49,6 +49,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
@@ -93,6 +94,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0001-two-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
@@ -208,10 +210,12 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
