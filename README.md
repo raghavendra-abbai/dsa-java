@@ -27,6 +27,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -122,6 +124,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -218,4 +221,13 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
