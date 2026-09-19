@@ -165,6 +165,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 ## Quicksort
@@ -217,6 +218,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
