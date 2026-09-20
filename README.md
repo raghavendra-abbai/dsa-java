@@ -64,6 +64,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -157,6 +158,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
@@ -221,6 +223,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
