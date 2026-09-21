@@ -1,30 +1,58 @@
 class Solution {
-    public int pairSum(ListNode head) {
 
-        List<Integer> list = new ArrayList<>();
+   public static ListNode revList(ListNode head){
+
+        ListNode curr = null ;
 
         while(head != null){
-            list.add(head.val);
-            head = head.next;
+
+            ListNode temp = head.next ;
+
+            head.next = curr ;
+            curr = head ;
+            head = temp; 
+
+        }
+        return curr ;
+
+
+
+
+
+    }
+    public int pairSum(ListNode head) {
+
+        int max = Integer.MIN_VALUE ;
+
+        ListNode slow = head ;
+        ListNode fast = head; 
+
+        while(fast != null && fast.next != null){
+            slow = slow.next ;
+            fast = fast.next.next ;
         }
 
-        int i = 0;
-        int j = list.size() - 1;
 
-        int max = Integer.MIN_VALUE;
+       ListNode p1 = revList(slow) ;
 
-        while(i < j){
+       ListNode p2 = head;
 
-            int count = list.get(i) + list.get(j);
+       while(p1 != null && p2 != null){
 
-            if(count > max){
-                max = count;
-            }
+        int count = p1.val + p2.val ;
 
-            i++;
-            j--;
+        if(count > max){
+            max = count  ;
         }
 
-        return max;
+        p1 = p1.next ;
+        p2 = p2.next ;
+
+        
+       }
+
+       return max ;
+
+
     }
 }
