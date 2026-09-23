@@ -181,6 +181,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 ## Minimax
