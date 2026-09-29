@@ -3,20 +3,33 @@ class Solution {
 
         int length = 0 ;
 
-        for(int i = 0 ; i< s.length() ; i++ ){
-            HashSet set = new HashSet() ;
+        int i = 0 ;
+        int j = 0 ;
 
-            for(int j = i; j< s.length() ; j++){
+        HashSet set = new HashSet() ;
 
-                if(set.contains(s.charAt(j))){
-                    break ;
-                }
+        while(j< s.length()){
 
-                set.add(s.charAt(j));
-                length = Math.max(length  , j-i+1) ;
-            }
+  
+           
+
+           while(set.contains(s.charAt(j))){
+            set.remove(s.charAt(i)) ;
+            i++;
+           }
+
+           if(set.contains(s.charAt(j))){
+            break ;
+           }
+
+           set.add(s.charAt(j)) ;
+           length = Math.max(length , j-i+1);
+
+
+                j= j+1 ;
         }
-return length ;
-      
+
+        return length;
+
     }
 }
