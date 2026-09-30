@@ -236,6 +236,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
