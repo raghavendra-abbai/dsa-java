@@ -77,6 +77,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0344-reverse-string) |
@@ -172,6 +173,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
@@ -258,4 +260,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
