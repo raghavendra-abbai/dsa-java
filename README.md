@@ -26,6 +26,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0219-contains-duplicate-ii) |
@@ -255,6 +256,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
