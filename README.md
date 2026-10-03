@@ -82,6 +82,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0020-valid-parentheses](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
@@ -112,6 +113,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -124,6 +126,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
