@@ -270,4 +270,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
