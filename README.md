@@ -54,6 +54,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [2352-equal-row-and-column-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -308,4 +309,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
