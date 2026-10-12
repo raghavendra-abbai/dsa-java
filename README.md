@@ -44,6 +44,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -80,6 +81,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0680-valid-palindrome-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -316,4 +318,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
