@@ -25,6 +25,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0136-single-number) |
@@ -137,6 +138,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
@@ -222,6 +224,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
