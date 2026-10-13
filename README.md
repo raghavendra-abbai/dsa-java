@@ -101,6 +101,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0394-decode-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0680-valid-palindrome-ii) |
+| [1360-number-of-days-between-two-dates](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1360-number-of-days-between-two-dates) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
@@ -241,6 +242,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0069-sqrtx](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
+| [1360-number-of-days-between-two-dates](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1360-number-of-days-between-two-dates) |
 ## Minimax
 |  |
 | ------- |
