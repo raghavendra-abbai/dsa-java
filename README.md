@@ -58,6 +58,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [2540-minimum-common-value](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/3169-count-days-without-meetings) |
 ## Sliding Window
 |  |
 | ------- |
