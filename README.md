@@ -36,6 +36,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
@@ -130,6 +131,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
