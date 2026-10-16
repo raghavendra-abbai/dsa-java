@@ -33,6 +33,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
@@ -130,6 +131,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0142-linked-list-cycle-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -149,6 +151,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
