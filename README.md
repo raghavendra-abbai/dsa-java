@@ -226,6 +226,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
@@ -305,6 +306,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
