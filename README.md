@@ -231,6 +231,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
@@ -247,6 +248,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
@@ -287,6 +289,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0141-linked-list-cycle) |
