@@ -114,6 +114,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -251,6 +252,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0002-add-two-numbers](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 | [1360-number-of-days-between-two-dates](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1360-number-of-days-between-two-dates) |
@@ -355,4 +357,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
