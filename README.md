@@ -50,6 +50,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0986-interval-list-intersections](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
+| [1288-remove-covered-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -157,6 +158,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0217-contains-duplicate](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1838-frequency-of-the-most-frequent-element) |
