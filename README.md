@@ -22,6 +22,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -181,6 +182,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0209-minimum-size-subarray-sum) |
@@ -228,6 +230,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
