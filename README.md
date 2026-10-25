@@ -39,6 +39,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -83,6 +84,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0283-move-zeroes](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0680-valid-palindrome-ii) |
@@ -139,6 +141,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0217-contains-duplicate](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
@@ -158,6 +161,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0169-majority-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
@@ -188,6 +192,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0209-minimum-size-subarray-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2540-minimum-common-value) |
