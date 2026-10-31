@@ -43,6 +43,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0674-longest-continuous-increasing-subsequence) |
