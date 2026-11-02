@@ -50,6 +50,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0904-fruit-into-baskets) |
@@ -174,6 +175,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
