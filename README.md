@@ -49,6 +49,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0643-maximum-average-subarray-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
@@ -210,6 +211,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2540-minimum-common-value) |
@@ -219,6 +221,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -393,4 +396,16 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
