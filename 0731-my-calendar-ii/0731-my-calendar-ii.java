@@ -1,31 +1,30 @@
 class MyCalendarTwo {
 
-    List<int[]> bookings;
-    List<int[]> overLapBookings;
+    TreeMap<Integer, Integer> m;
 
     public MyCalendarTwo() {
-        bookings = new ArrayList<int[]>();
-        overLapBookings = new ArrayList<int[]>();
+        m = new TreeMap<>();
     }
 
-    public boolean book(int startTime, int endTime) {
+    public boolean book(int start, int end) {
 
-        for(int[] b : overLapBookings) {
-            if(startTime < b[1] && endTime > b[0]) {
+        m.put(start, m.getOrDefault(start, 0) + 1);
+        m.put(end, m.getOrDefault(end, 0) - 1);
+
+        int count = 0;
+
+        for(int i : m.values()) {
+
+            count += i;
+
+            if(count == 3) {
+
+                m.put(start, m.get(start) - 1);
+                m.put(end, m.get(end) + 1);
+
                 return false;
             }
         }
-
-        for(int[] b : bookings) {
-            int start = Math.max(startTime, b[0]);
-            int end = Math.min(endTime, b[1]);
-
-            if(start < end) {
-                overLapBookings.add(new int[]{start, end});
-            }
-        }
-
-        bookings.add(new int[]{startTime, endTime});
 
         return true;
     }
