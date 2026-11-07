@@ -302,14 +302,17 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -408,4 +411,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
