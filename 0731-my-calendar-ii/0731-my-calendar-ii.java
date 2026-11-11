@@ -1,31 +1,40 @@
+
 class MyCalendarTwo {
 
-    TreeMap<Integer, Integer> m;
+    Map<Integer , Integer> map ;
 
+      
     public MyCalendarTwo() {
-        m = new TreeMap<>();
+
+        map = new TreeMap<Integer,Integer> () ; 
+
     }
 
     public boolean book(int start, int end) {
 
-        m.put(start, m.getOrDefault(start, 0) + 1);
-        m.put(end, m.getOrDefault(end, 0) - 1);
+        map.put(start , map.getOrDefault(start , 0) +1) ;
+        map.put(end , map.getOrDefault(end , 0) -1) ; 
 
-        int count = 0;
+        int bookings = 0 ; 
 
-        for(int i : m.values()) {
+        for(Map.Entry<Integer , Integer> entry : map.entrySet()){
 
-            count += i;
+            bookings = bookings+ entry.getValue() ; 
 
-            if(count == 3) {
+            if(bookings > 2) {
 
-                m.put(start, m.get(start) - 1);
-                m.put(end, m.get(end) + 1);
+                map.put(start ,map.getOrDefault(start, 0) -1) ;
+                map.put(end , map.getOrDefault(end , 0)+1) ; 
 
-                return false;
+                
+            return false ; 
+
             }
+
         }
 
-        return true;
+            return true ; 
+     
+
     }
 }
