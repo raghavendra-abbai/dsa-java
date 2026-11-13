@@ -59,6 +59,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -179,6 +180,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0561-array-partition](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1288-remove-covered-intervals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1657-determine-if-two-strings-are-close](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1657-determine-if-two-strings-are-close) |
@@ -225,6 +227,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0724-find-pivot-index](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1094-car-pooling) |
 | [1732-find-the-highest-altitude](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
@@ -243,6 +246,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | ------- |
 | [0735-asteroid-collision](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1094-car-pooling) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -420,4 +424,8 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
