@@ -1,31 +1,29 @@
 class Solution {
     public boolean carPooling(int[][] trips, int capacity) {
 
-      Map<Integer, Integer>  map = new TreeMap<Integer , Integer>() ; 
+        int []buckets =  new int[1001] ; 
 
-      for(int [] trip : trips){
-        int pass = trip[0] ; 
-        int  start = trip[1] ; 
-        int  end = trip[2] ;
+        for(int []trip : trips){
+            int pass = trip[0] ; 
+            int start = trip[1] ; 
+            int end = trip[2] ; 
 
-     map.put(start , map.getOrDefault(start , 0)+pass) ;
-     map.put(end , map.getOrDefault(end , 0)-pass) ; 
 
-    
-      }
+            buckets[start] = buckets[start]+pass ; 
+            buckets[end] = buckets[end] - pass ;
+        }
 
-      int passengers = 0 ; 
+        int passengers = 0 ; 
 
-      for(Map.Entry<Integer , Integer> entry : map.entrySet()){
-        
-        passengers = passengers + entry.getValue() ;
-        
+        for(int  bucket : buckets) {
 
-        if(passengers > capacity ){
+            passengers = passengers + bucket ;
 
-            return false ; 
-         }
-      }
-        return true ; 
+            if(passengers > capacity) {
+                return false ; 
+            }
+        }
+
+            return true ; 
     }
 }
