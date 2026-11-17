@@ -156,6 +156,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0242-valid-anagram](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1207-unique-number-of-occurrences) |
@@ -214,6 +215,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0287-find-the-duplicate-number](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0732-my-calendar-iii) |
@@ -410,6 +412,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0732-my-calendar-iii) |
@@ -422,6 +425,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0732-my-calendar-iii) |
@@ -433,4 +437,12 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1094-car-pooling) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
