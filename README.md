@@ -24,6 +24,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0001-two-sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0035-search-insert-position) |
@@ -79,6 +80,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -169,6 +171,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0075-sort-colors) |
