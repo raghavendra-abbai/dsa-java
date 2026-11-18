@@ -1,50 +1,65 @@
-
-import java.util.*;
-
 class SummaryRanges {
 
-    List<Integer> sr;
+   TreeSet<Integer> map ; 
+
 
     public SummaryRanges() {
-        sr = new ArrayList<>();
+
+        map = new TreeSet<>() ; 
+     
     }
 
     public void addNum(int value) {
 
-        if (!sr.contains(value)) {
-            sr.add(value);
-        }
+        map.add(value) ;
+
+       
     }
 
     public int[][] getIntervals() {
 
-        List<int[]> list = new ArrayList<>();
+      if(map.size() == 0){
+        return new int [][]{} ; 
+      }
 
-        if (sr.isEmpty()) {
-            return new int[0][];
+      Integer left = null;
+      Integer right = null ;
+
+      List<int[]> res = new ArrayList<>() ; 
+
+      for(Integer val : map){
+
+        if(right == null && left == null){
+            right = val ; 
+            left = val ;
         }
 
-        Collections.sort(sr);
-
-        int start = sr.get(0);
-        int end = sr.get(0);
-
-        for (int i = 0; i < sr.size() - 1; i++) {
-
-            if (sr.get(i + 1) == sr.get(i) + 1) {
-
-                end = sr.get(i + 1);
-
-            } else {
-
-                list.add(new int[]{start, end});
-
-                start = sr.get(i + 1);
-                end = sr.get(i + 1);
-            }
+        else if(val == right+1){
+            right = val ;
         }
-        list.add(new int[]{start, end});
 
-        return list.toArray(new int[list.size()][]);
+        else{
+            res.add(new int[]{
+                left , right
+            }) ; 
+
+            left = val ;
+            right = val ;
+        }
+      } 
+
+      res.add(new int []{
+        left , right
+      }) ; 
+
+      int [][]ans = new int[res.size()][2] ;
+
+      for(int i = 0 ; i<res.size() ; i=i+1){
+        ans[i] = res.get(i) ;
+      } 
+
+      return ans ;
+
+       
     }
 }
