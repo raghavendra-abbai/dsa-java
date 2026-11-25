@@ -6,30 +6,30 @@ class Solution {
             return;
         }
 
-        Stack<ListNode> st = new Stack<>();
+        ArrayList<ListNode> arr = new ArrayList<>();
 
         ListNode curr = head;
 
         while(curr != null){
-            st.push(curr);
+            arr.add(curr);
             curr = curr.next;
         }
 
-        ListNode f = head;
-        int n = st.size();
+        int f = 0;
+        int l = arr.size() - 1;
 
-        for(int i = 0; i < n / 2; i++){
+   
+        while(f < l){
 
-            ListNode last = st.pop();
+            arr.get(f).next = arr.get(l);
+            f++;
 
-            ListNode temp = f.next;
+            if(f == l) break;
 
-            f.next = last;
-            last.next = temp;
-
-            f = temp;
+            arr.get(l).next = arr.get(f);
+            l--;
         }
 
-        f.next = null;
+        arr.get(f).next = null;
     }
 }
