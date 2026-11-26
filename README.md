@@ -106,6 +106,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0977-squares-of-a-sorted-array](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2540-minimum-common-value) |
@@ -353,6 +354,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
