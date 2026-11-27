@@ -353,6 +353,7 @@ Goal: Complete LeetCode 75 and improve my problem-solving skills.
 | [0203-remove-linked-list-elements](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavendra-abbai/dsa-javascript/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
